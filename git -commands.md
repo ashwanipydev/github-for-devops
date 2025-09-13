@@ -8,3 +8,4 @@
 | git log                | View commit history                 |
 | git restore <file>      | Discard changes in working directory|
 | git branch             | List, create, or delete branches    |
+| git checkout <branch>  | Switch to a different branch        |
