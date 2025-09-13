@@ -9,3 +9,6 @@
 | git restore <file>      | Discard changes in working directory|
 | git branch             | List, create, or delete branches    |
 | git checkout <branch>  | Switch to a different branch        |
+| git push              | Push changes to remote repository   |
+| git pull              | Pull changes from remote repository  |
+| git fork              | Create a copy of a repository       |
